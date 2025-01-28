@@ -1,2 +1,2 @@
 # Devops1
-This is foe devops notes
+This is for devops notes
